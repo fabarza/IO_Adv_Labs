@@ -1,0 +1,25 @@
+Laboratorio 1
+Inv. de Operaciones Avanzada
+
+Guillermo Cabrera Guerrero, PhD
+Fecha Entrega Tarea: 22/09/21
+
+
+Grupos de 3-4 personas
+La copia se penalizará con nota 1 para todos los integrantes del (los) grupo(s) involucrado(s)
+Si bien es posible encontrar código que realice tareas similares a las que se solicitan en este Laboratorio, es indispensable que TODO el código que se presente sea de autoría de los integrantes del grupo
+
+
+Se requiere que cada grupo implemente un programa en el lenguaje de su elección (que pueda ser ejecutado en Linux y MS-Windows al menos), tal que, dado un PPL con 2 variables de decisión y a lo más 3 restricciones (asuma no-negatividad de las variables), realice lo siguiente:
+
+•	Indique si el espacio factible es distinto de vacío (10)
+•	Indique si el espacio factible es cerrado o abierto(10)
+
+Si el espacio factible es distinto de vacío y cerrado, entonces el programa deberá:
+
+•	Mostrar gráficamente las curvas de nivel de la función objetivo (5)
+•	Mostrar gráficamente, el espacio factible (5)
+•	Identificar el conjunto de posibles soluciones del PPL (10)
+•	Identificar una solución optima del problema (10)
+
+El programa debe estar claramente comentado, de tal forma de saber exactamente qué hace cada parte/función del mismo. Los comentarios en el programa tendrán una puntuación máxima de 10 puntos
